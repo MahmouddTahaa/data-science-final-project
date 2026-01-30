@@ -84,11 +84,6 @@ python dash_app.py
 - Reuse functions in `src/` and `utils/` for plotting and pipeline steps.
 - See `docs/project_plan.md` and `docs/user_stories.md` for scope and priorities.
 
-## Tips & Next steps
-
-- Confirm that the image files exist at `assets/images/1.png`, `2.png`, `3.png`, `4.png`, and `image.png` — update paths if your filenames differ.
-- Optionally replace the root `README.md` with this file or add a short pointer linking to it.
-
 ---
 
 **Contributors:** see `docs/team_roles.md`
