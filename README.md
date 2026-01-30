@@ -33,7 +33,7 @@ This repository contains a complete data science project that analyzes Ford GoBi
 
 ---
 
-## Screenshots — Dashboard (use in demos)
+## Screenshots — Dashboard
 
 <p align="center">
 	<img src="assets/images/1.png" alt="Dashboard 1" width="48%" style="margin:4px;border-radius:6px;box-shadow:0 4px 10px rgba(0,0,0,0.08)" />
